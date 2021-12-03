@@ -1,4 +1,4 @@
-# RoombaDiana
+# Roomba: Diana
 Para este proyecto hay dos agentes: El robot que limpia el piso y el piso que solamente cambia de estado de sucio a limpio si el robot se encima.
 El objetivo del robot es limpiar el suelo en la menor cantidad de pasos posibles.
 
